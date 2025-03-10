@@ -35,8 +35,4 @@ Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados p
 🎁 **Swags y perks** → Participa en eventos y gana premios, stickers y mucho más.  
 
 ### 📌 **¡Y lo mejor? Es gratis.**  
-No necesitas experiencia previa ni pagar ninguna membresía. Solo necesitas ganas de aprender y colaborar. 🚀  
-
-### 🔗 **Conectá con nosotros:**  
-📩 [Correo electrónico](mailto:clubdeprogramacion@ing.una.py)  
-🌳 [Linktree](https://www.linktr.ee/cpfiuna/)  
+No necesitas experiencia previa ni pagar ninguna membresía. Solo necesitas ganas de aprender y colaborar. 🚀
