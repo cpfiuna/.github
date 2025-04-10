@@ -1,4 +1,4 @@
-![image](images/cpf_banner.png)
+![Banner </cpf>](images/cpf_banner.png)
 
 ## 🚀 **Club de Programación FIUNA**  
 
