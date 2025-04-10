@@ -1,4 +1,4 @@
-# ![Banner del Club de Programación FIUNA](https://drive.google.com/uc?export=view&id=1mQep_u9-gZ8SvomNW96Hp4tUer4L_lmI)
+![image](images/cpf_banner.png)
 
 ## 🚀 **Club de Programación FIUNA**  
 
