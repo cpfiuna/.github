@@ -8,7 +8,7 @@ Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados p
 
 En nuestra comunidad estamos armando varios proyectos interesantes entre todos y siempre hay buenas oportunidades de “primer issue” si te animás. ¡Entrá a colaborar en cualquiera de [nuestros repos](https://github.com/cpfiuna/mi-primer-pull-request)!.
 
-No hace falta que tengas experiencia previa ni que pagues ninguna membresía. Lo único que necesitás son ganas de aprender y colaborar.
+No hace falta que tengas experiencia previa ni que pagues ninguna membresía. Lo único que <br/> necesitás son ganas de aprender y colaborar.
 </div>
 
 Visitá nuestra [página web](https://cpfiuna.vercel.app) para saber más sobre nosotros y conectá con nosotros en cualquiera de nuestras redes sociales:
