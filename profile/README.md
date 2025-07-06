@@ -31,7 +31,11 @@ Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados p
 🔹 **Desarrollo de Videojuegos** → Diseño, programación y motores gráficos.  
 🔹 **Internet de las Cosas** → Integración de hardware y software para soluciones inteligentes.  
 
-![Example GIF](images/cat_code.gif)
+<div align="center">
+
+  ![Example GIF](images/cat_code.gif)
+
+</div>
 
 <div align="center">
   <h3>Conectá con nosotros</h3>
