@@ -1,5 +1,9 @@
 ![Banner </cpf>](images/cpf_banner.png)
 
+<div align="center">
+  <h1>Club de Programación FIUNA</h1>
+</div>
+
 ## 🚀 **Club de Programación FIUNA**  
 
 Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados por la programación y la innovación. Nuestro objetivo es **crear un espacio donde cualquiera pueda aprender, desarrollar proyectos y conectar con la industria tecnológica**. Más que un club, somos un ecosistema de aprendizaje y experimentación, donde la creatividad y el código se unen para resolver desafíos reales.  
