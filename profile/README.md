@@ -2,7 +2,7 @@
 
 Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados por la programación y la innovación. Nuestro objetivo es ***crear un espacio donde cualquiera pueda aprender, desarrollar proyectos y conectar con otras personas igual de apasionadas***. Más que un club, somos un ecosistema de aprendizaje y experimentación, donde la creatividad y el código se unen para resolver desafíos reales.  
 
-<img align="right" width="25%" src="images/cat_code.gif" alt="coding cat" style="margin-left: 10px;"/>
+<img align="right" width="25%" src="images/cat_code.gif" alt="coding cat" style="margin-left: 20px;"/>
 
 <div>
 
