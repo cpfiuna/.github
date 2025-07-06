@@ -31,21 +31,7 @@ Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados p
 🔹 **Desarrollo de Videojuegos** → Diseño, programación y motores gráficos.  
 🔹 **Internet de las Cosas** → Integración de hardware y software para soluciones inteligentes.  
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/cat_code.gif" alt="Example GIF" style="width: 50%; margin-right: 20px;">
-  <div style="width: 50%;">
-    <h3>Texto relacionado al GIF</h3>
-    <p>Este GIF representa la creatividad y el código en acción, mostrando cómo la programación puede ser divertida y emocionante.</p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="width: 50%;">
-    <h3>Texto relacionado al GIF</h3>
-    <p>Este GIF representa la creatividad y el código en acción, mostrando cómo la programación puede ser divertida y emocionante.</p>
-  </div>
-  <img src="images/cat_code.gif" alt="Example GIF" style="width: 50%; margin-left: 20px;">
-</div>
+![Example GIF](images/cat_code.gif)
 
 <div align="center">
   <h3>Conectá con nosotros</h3>
