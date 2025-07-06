@@ -6,9 +6,7 @@ En nuestra comunidad estamos armando varios proyectos interesantes entre todos y
 
 No hace falta que tengas experiencia previa ni que pagues ninguna membresía. Lo único que necesitás son ganas de aprender y colaborar.
 
-Visitá nuestra [página web](https://cpfiuna.vercel.app) para saber más sobre nosotros.
-
-Conectá con nosotros
+Visitá nuestra [página web](https://cpfiuna.vercel.app) para saber más sobre nosotros y podés conectar con nosotros en cualquiera de nuestras redes sociales:
 
 [![Instagram](https://img.shields.io/badge/Instagram-cpf?style=plastic&logo=instagram&logoColor=%23fafafa&labelColor=%23FF0069&color=%23FF0069)](https://instagram.com/cpfiuna)
   [![X](https://img.shields.io/badge/X-cpf?style=plastic&logo=x&logoColor=%23fafafa&labelColor=%23000000&color=%23000000)](https://x.com/cpfiuna)
