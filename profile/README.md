@@ -18,4 +18,9 @@ Visitá nuestra [página web](https://cpfiuna.vercel.app) para saber más sobre 
 
 </div>
 
-Los proyectos del \</cpf\> adoptan el siguiente [Código de Conducta](https://cpfiuna.vercel.app/codigo-de-conducta).
+---
+<div align="center">
+
+  Todos los proyectos del \</cpf\> siguen el siguiente [Código de Conducta](https://cpfiuna.vercel.app/codigo-de-conducta).
+
+</div>
