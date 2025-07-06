@@ -17,3 +17,5 @@ Visitá nuestra [página web](https://cpfiuna.vercel.app) para saber más sobre 
   [![Linktree](https://img.shields.io/badge/Linktree-cpf?style=plastic&logo=linktree&logoColor=%23fafafa&labelColor=%2343E55E&color=%2343E55E)](https://linktr.ee/cpfiuna)
 
 </div>
+
+Los proyectos del \</cpf\> adoptan el siguiente [Código de Conducta](https://cpfiuna.vercel.app/codigo-de-conducta).
