@@ -31,14 +31,40 @@ Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados p
 🔹 **Desarrollo de Videojuegos** → Diseño, programación y motores gráficos.  
 🔹 **Internet de las Cosas** → Integración de hardware y software para soluciones inteligentes.  
 
-<div align="center">
-<h3>Conectá con nosotros</h3>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/cat_code.gif" alt="Example GIF" style="width: 50%; margin-right: 20px;">
+  <div style="width: 50%;">
+    <h3>Texto relacionado al GIF</h3>
+    <p>Este GIF representa la creatividad y el código en acción, mostrando cómo la programación puede ser divertida y emocionante.</p>
+  </div>
+</div>
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/UtRpKw2ay4)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/cpfiuna)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/cpfiuna)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@cpfiuna)
-[![Linktree](https://img.shields.io/badge/linktree-43E55E?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/cpfiuna)
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="width: 50%;">
+    <h3>Texto relacionado al GIF</h3>
+    <p>Este GIF representa la creatividad y el código en acción, mostrando cómo la programación puede ser divertida y emocionante.</p>
+  </div>
+  <img src="images/cat_code.gif" alt="Example GIF" style="width: 50%; margin-left: 20px;">
+</div>
+
+<div align="center">
+  <h3>Conectá con nosotros</h3>
+
+  <a href="https://instagram.com/cpfiuna" target="_blank" style="margin-right: 2px;">
+    <img src="https://img.shields.io/badge/Instagram-cpf?style=plastic&logo=instagram&logoColor=%23fafafa&labelColor=%23FF0069&color=%23FF0069" alt="Instagram" />
+  </a>
+  <a href="https://x.com/cpfiuna" target="_blank" style="margin-right: 2px;">
+    <img src="https://img.shields.io/badge/X-cpf?style=plastic&logo=x&logoColor=%23fafafa&labelColor=%23000000&color=%23000000" alt="X" />
+  </a>
+  <a href="https://discord.gg/UtRpKw2ay4" target="_blank" style="margin-right: 2px;">
+    <img src="https://img.shields.io/badge/Discord-cpf?style=plastic&logo=discord&logoColor=%23fafafa&labelColor=%235865F2&color=%235865F2" alt="Discord" />
+  </a>
+  <a href="https://youtube.com/@cpfiuna" target="_blank" style="margin-right: 2px;">
+    <img src="https://img.shields.io/badge/YouTube-cpf?style=plastic&logo=youtube&logoColor=%23fafafa&labelColor=%23FF0000&color=%23FF0000" alt="YouTube" />
+  </a>
+  <a href="https://linktr.ee/cpfiuna" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-cpf?style=plastic&logo=linktree&logoColor=%23fafafa&labelColor=%2343E55E&color=%2343E55E" alt="Linktree" />
+  </a>
 
 </div>
 
