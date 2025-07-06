@@ -32,6 +32,15 @@ Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados p
 ✅ Conectamos a los estudiantes con **empresas, startups y profesionales** para impulsar oportunidades de crecimiento y empleabilidad.  
 
 
+| Item              | In Stock | Price |
+| :---------------- | :------: | ----: |
+| Python Hat        |   True   | 23.99 |
+| SQL Hat           |   True   | 23.99 |
+| Codecademy Tee    |  False   | 19.99 |
+| Codecademy Hoodie |  False   | 42.99 |
+
+
+
 <div align="center">
   <h2>💻 Áreas de enfoque</h2>
 
