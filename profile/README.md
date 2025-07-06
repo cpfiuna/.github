@@ -10,46 +10,12 @@ Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados p
 <div align="center">
   <h2>¡Involucráte!</h2>
 </div>
-Nuestra comunidad está trabajando en proyectos increíbles de manera colaborativa, y hay excelentes oportunidades de "buen primer issue" si querés involucrarte. Sentite libre de contribuir en cualquiera de nuestros repositorios. [¡Exploralos aquí!](https://github.com/orgs/cpfiuna/repositories)
 
-Visitá dsckiit.in para saber más sobre nosotros.
+En nuestra comunidad estamos armando varios proyectos interesantes entre todos y siempre hay buenas oportunidades de “primer issue” si te animás. ¡Entrá a colaborar en cualquiera de [nuestros repos](https://github.com/orgs/cpfiuna/repositories)!.
 
+No hace falta que tengas experiencia previa ni que pagues ninguna membresía. Lo único que necesitás son ganas de aprender y colaborar.
 
-No necesitás experiencia previa ni pagar ninguna membresía. Solo necesitas ganas de aprender y colaborar. 🚀
-
-
-<div align="center">
-  <h2>🌍 Nuestra Visión</h2>
-</div>
-
-💡 Convertirnos en un punto de referencia para el desarrollo de talento en tecnología dentro y fuera de FIUNA.  
-🚀 Ser una incubadora de ideas y proyectos innovadores con impacto en la educación, la industria y la sociedad.  
-
-<div align="center">
-  <h2>🎯 Nuestra Misión</h2>
-</div>
-
-📚 Fomentar el aprendizaje práctico y el pensamiento computacional a través de cursos, talleres y mentorías.  
-🤝 Crear una comunidad donde los estudiantes puedan colaborar en proyectos reales y desarrollar habilidades clave para su futuro profesional.  
-🌱 Apoyar la transformación digital en la FIUNA mediante soluciones tecnológicas diseñadas por y para estudiantes.  
-
-<div align="center">
-  <h2>🎓 Lo que hacemos</h2>
-</div>
-
-✅ Organizamos **cursos y capacitaciones** en desarrollo de software, desde lo básico hasta tecnologías avanzadas.  
-✅ Brindamos **apoyo académico y mentoría** en materias que requieren programación.  
-✅ Desarrollamos **proyectos colaborativos**, incluyendo aplicaciones, plataformas web y herramientas para la comunidad estudiantil.  
-✅ Participamos y organizamos **hackathons, desafíos de programación y meetups** para fomentar la creatividad y la resolución de problemas.  
-✅ Conectamos a los estudiantes con **empresas, startups y profesionales** para impulsar oportunidades de crecimiento y empleabilidad.  
-
-<div align="center">
-  <h2>💻 Áreas de enfoque</h2>
-</div>
-
-| Desarrollo Frontend | Desarrollo Backend | Programación Competitiva | Ciencia de Datos | Inteligencia Artificial |
-| :-----------------: | :----------------: | :----------------------: | :--------------: | :---------------------: |
-| Interfaces web modernas, diseño responsivo y experiencia de usuario | APIs, servidores, bases de datos y arquitectura de sistemas | Algoritmos, estructuras de datos y resolución de problemas | Análisis, visualización y procesamiento de datos | Modelos de machine learning y soluciones inteligentes |
+Visitá nuestra [página web](https://cpfiuna.vercel.app) para saber más sobre nosotros.
 
 <div align="center">
 
