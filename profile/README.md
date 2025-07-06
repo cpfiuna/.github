@@ -31,37 +31,13 @@ Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados p
 ✅ Participamos y organizamos **hackathons, desafíos de programación y meetups** para fomentar la creatividad y la resolución de problemas.  
 ✅ Conectamos a los estudiantes con **empresas, startups y profesionales** para impulsar oportunidades de crecimiento y empleabilidad.  
 
-
-| Item              | In Stock | Price |
-| :---------------- | :------: | ----: |
-| Python Hat        |   True   | 23.99 |
-| SQL Hat           |   True   | 23.99 |
-| Codecademy Tee    |  False   | 19.99 |
-| Codecademy Hoodie |  False   | 42.99 |
-
-
-
 <div align="center">
   <h2>💻 Áreas de enfoque</h2>
-
-<table align="center">
-  <tr>
-    <th align="center">Desarrollo Frontend</th>
-    <th align="center">Desarrollo Backend</th>
-    <th align="center">Programación Competitiva</th>
-    <th align="center">Ciencia de Datos</th>
-    <th align="center">Inteligencia Artificial</th>
-  </tr>
-  <tr>
-    <td align="center">Interfaces web modernas, diseño responsivo y experiencia de usuario.</td>
-    <td align="center">APIs, servidores, bases de datos y arquitectura de sistemas.</td>
-    <td align="center">Algoritmos, estructuras de datos y resolución de problemas.</td>
-    <td align="center">Análisis, visualización y procesamiento de datos.</td>
-    <td align="center">Modelos de machine learning y soluciones inteligentes.</td>
-  </tr>
-</table>
-
 </div>
+
+| Desarrollo Frontend | Desarrollo Backend | Programación Competitiva | Ciencia de Datos | Inteligencia Artificial |
+| :-----------------: | :----------------: | :----------------------: | :--------------: | :---------------------: |
+| Interfaces web modernas, diseño responsivo y experiencia de usuario | APIs, servidores, bases de datos y arquitectura de sistemas | Algoritmos, estructuras de datos y resolución de problemas | Análisis, visualización y procesamiento de datos | Modelos de machine learning y soluciones inteligentes |
 
 <div align="center">
 
