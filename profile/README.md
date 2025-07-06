@@ -37,28 +37,22 @@ Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados p
 
 <table align="center">
   <tr>
-    <th align="center">Desarrollo Web & Móvil</th>
-    <th align="center">Ciencia de Datos & IA</th>
-    <th align="center">Ciberseguridad & Blockchain</th>
-    <th align="center">Desarrollo de Videojuegos</th>
-    <th align="center">Internet de las Cosas</th>
+    <th align="center">Desarrollo Frontend</th>
+    <th align="center">Desarrollo Backend</th>
+    <th align="center">Programación Competitiva</th>
+    <th align="center">Ciencia de Datos</th>
+    <th align="center">Inteligencia Artificial</th>
   </tr>
   <tr>
-    <td align="center">Aplicaciones, sitios web y plataformas interactivas.</td>
-    <td align="center">Análisis, machine learning y automatización.</td>
-    <td align="center">Protección de datos y tecnologías descentralizadas.</td>
-    <td align="center">Diseño, programación y motores gráficos.</td>
-    <td align="center">Integración de hardware y software para soluciones inteligentes.</td>
+    <td align="center">Interfaces web modernas, diseño responsivo y experiencia de usuario.</td>
+    <td align="center">APIs, servidores, bases de datos y arquitectura de sistemas.</td>
+    <td align="center">Algoritmos, estructuras de datos y resolución de problemas.</td>
+    <td align="center">Análisis, visualización y procesamiento de datos.</td>
+    <td align="center">Modelos de machine learning y soluciones inteligentes.</td>
   </tr>
 </table>
 
 </div>
-
-🔹 **Desarrollo Web & Móvil** →   
-🔹 **Ciencia de Datos & IA** →  
-🔹 **Ciberseguridad & Blockchain** → 
-🔹 **Desarrollo de Videojuegos** → 
-🔹 **Internet de las Cosas** → 
 
 <div align="center">
 
