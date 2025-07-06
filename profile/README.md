@@ -1,6 +1,4 @@
-<div align="center">
-  <h1>Club de Programación FIUNA</h1>
-</div>
+# Club de Programación FIUNA</h1>
 
 ![Banner </cpf>](images/cpf_banner.png)
 
