@@ -40,21 +40,11 @@ Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados p
 <div align="center">
   <h3>Conectá con nosotros</h3>
 
-  <a href="https://instagram.com/cpfiuna" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Instagram-cpf?style=plastic&logo=instagram&logoColor=%23fafafa&labelColor=%23FF0069&color=%23FF0069" alt="Instagram" />
-  </a>
-  <a href="https://x.com/cpfiuna" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/X-cpf?style=plastic&logo=x&logoColor=%23fafafa&labelColor=%23000000&color=%23000000" alt="X" />
-  </a>
-  <a href="https://discord.gg/UtRpKw2ay4" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Discord-cpf?style=plastic&logo=discord&logoColor=%23fafafa&labelColor=%235865F2&color=%235865F2" alt="Discord" />
-  </a>
-  <a href="https://youtube.com/@cpfiuna" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/YouTube-cpf?style=plastic&logo=youtube&logoColor=%23fafafa&labelColor=%23FF0000&color=%23FF0000" alt="YouTube" />
-  </a>
-  <a href="https://linktr.ee/cpfiuna" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-cpf?style=plastic&logo=linktree&logoColor=%23fafafa&labelColor=%2343E55E&color=%2343E55E" alt="Linktree" />
-  </a>
+  [![Instagram](https://img.shields.io/badge/Instagram-cpf?style=plastic&logo=instagram&logoColor=%23fafafa&labelColor=%23FF0069&color=%23FF0069)](https://instagram.com/cpfiuna)
+  [![X](https://img.shields.io/badge/X-cpf?style=plastic&logo=x&logoColor=%23fafafa&labelColor=%23000000&color=%23000000)](https://x.com/cpfiuna)
+  [![Discord](https://img.shields.io/badge/Discord-cpf?style=plastic&logo=discord&logoColor=%23fafafa&labelColor=%235865F2&color=%235865F2)](https://discord.gg/UtRpKw2ay4)
+  [![YouTube](https://img.shields.io/badge/YouTube-cpf?style=plastic&logo=youtube&logoColor=%23fafafa&labelColor=%23FF0000&color=%23FF0000)](https://youtube.com/@cpfiuna)
+  [![Linktree](https://img.shields.io/badge/Linktree-cpf?style=plastic&logo=linktree&logoColor=%23fafafa&labelColor=%2343E55E&color=%2343E55E)](https://linktr.ee/cpfiuna)
 
 </div>
 
