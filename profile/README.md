@@ -36,8 +36,9 @@ Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados p
 
 <div align="center">
 <h3>Conectá con nosotros</h3>
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-<a /></a>
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]
+
 </div>
 
 
