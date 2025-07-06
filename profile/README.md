@@ -34,13 +34,31 @@ Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados p
 
 <div align="center">
   <h2>💻 Áreas de enfoque</h2>
+
+<table align="center">
+  <tr>
+    <th align="center">Desarrollo Web & Móvil</th>
+    <th align="center">Ciencia de Datos & IA</th>
+    <th align="center">Ciberseguridad & Blockchain</th>
+    <th align="center">Desarrollo de Videojuegos</th>
+    <th align="center">Internet de las Cosas</th>
+  </tr>
+  <tr>
+    <td align="center">Aplicaciones, sitios web y plataformas interactivas.</td>
+    <td align="center">Análisis, machine learning y automatización.</td>
+    <td align="center">Protección de datos y tecnologías descentralizadas.</td>
+    <td align="center">Diseño, programación y motores gráficos.</td>
+    <td align="center">Integración de hardware y software para soluciones inteligentes.</td>
+  </tr>
+</table>
+
 </div>
 
-🔹 **Desarrollo Web & Móvil** → Aplicaciones, sitios web y plataformas interactivas.  
-🔹 **Ciencia de Datos & IA** → Análisis, machine learning y automatización.  
-🔹 **Ciberseguridad & Blockchain** → Protección de datos y tecnologías descentralizadas.  
-🔹 **Desarrollo de Videojuegos** → Diseño, programación y motores gráficos.  
-🔹 **Internet de las Cosas** → Integración de hardware y software para soluciones inteligentes.  
+🔹 **Desarrollo Web & Móvil** →   
+🔹 **Ciencia de Datos & IA** →  
+🔹 **Ciberseguridad & Blockchain** → 
+🔹 **Desarrollo de Videojuegos** → 
+🔹 **Internet de las Cosas** → 
 
 <div align="center">
 
@@ -60,7 +78,7 @@ Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados p
 </div>
 
 <div align="center">
-  <h3>📌 ¡Y lo mejor? Es gratis.</h3>
+  <h2>📌 ¡Y lo mejor? Es gratis.</h2>
 </div>
 
 No necesitas experiencia previa ni pagar ninguna membresía. Solo necesitas ganas de aprender y colaborar. 🚀
