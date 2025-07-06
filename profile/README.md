@@ -40,7 +40,7 @@ Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados p
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
-![YouTube](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)
 ![Linktree](https://img.shields.io/badge/linktree-43E55E?style=flat&logo=linktree&logoColor=white)
 
 </div>
