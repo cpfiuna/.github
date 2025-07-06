@@ -38,12 +38,11 @@ Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados p
 <h3>Conectá con nosotros</h3>
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/cpf-fiuna)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/cpfiuna)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/cpfiuna)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@cpfiuna)
+[![Linktree](https://img.shields.io/badge/linktree-43E55E?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/cpfiuna)
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/cpf-fiuna)
-![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)
-![Linktree](https://img.shields.io/badge/linktree-43E55E?style=flat&logo=linktree&logoColor=white)
 </div>
 
 
