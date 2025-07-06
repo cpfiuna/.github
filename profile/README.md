@@ -1,10 +1,22 @@
-![Banner </cpf>](images/cpf_banner.png)
-
 <div align="center">
   <h1>Club de Programación FIUNA</h1>
 </div>
 
+![Banner </cpf>](images/cpf_banner.png)
+
 Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados por la programación y la innovación. Nuestro objetivo es ***crear un espacio donde cualquiera pueda aprender, desarrollar proyectos y conectar con otras personas igual de apasionadas***. Más que un club, somos un ecosistema de aprendizaje y experimentación, donde la creatividad y el código se unen para resolver desafíos reales.  
+
+
+<div align="center">
+  <h2>¡Involucráte!</h2>
+</div>
+Nuestra comunidad está trabajando en proyectos increíbles de manera colaborativa, y hay excelentes oportunidades de "buen primer issue" si querés involucrarte. Sentite libre de contribuir en cualquiera de nuestros repositorios. [¡Exploralos aquí!](https://github.com/orgs/cpfiuna/repositories)
+
+Visitá dsckiit.in para saber más sobre nosotros.
+
+
+No necesitás experiencia previa ni pagar ninguna membresía. Solo necesitas ganas de aprender y colaborar. 🚀
+
 
 <div align="center">
   <h2>🌍 Nuestra Visión</h2>
@@ -55,9 +67,3 @@ Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados p
   [![Linktree](https://img.shields.io/badge/Linktree-cpf?style=plastic&logo=linktree&logoColor=%23fafafa&labelColor=%2343E55E&color=%2343E55E)](https://linktr.ee/cpfiuna)
 
 </div>
-
-<div align="center">
-  <h2>📌 ¡Y lo mejor? Es gratis.</h2>
-</div>
-
-No necesitas experiencia previa ni pagar ninguna membresía. Solo necesitas ganas de aprender y colaborar. 🚀
