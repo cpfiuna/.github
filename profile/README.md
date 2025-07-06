@@ -4,11 +4,11 @@
   <h1>Club de Programación FIUNA</h1>
 </div>
 
-## 🚀 **Club de Programación FIUNA**  
-
 Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados por la programación y la innovación. Nuestro objetivo es **crear un espacio donde cualquiera pueda aprender, desarrollar proyectos y conectar con la industria tecnológica**. Más que un club, somos un ecosistema de aprendizaje y experimentación, donde la creatividad y el código se unen para resolver desafíos reales.  
 
-### 🌍 **Nuestra Visión**  
+<div align="center">
+  <h2>🌍 Nuestra Visión</h2>
+</div>
 💡 Convertirnos en un punto de referencia para el desarrollo de talento en tecnología dentro y fuera de FIUNA.  
 🚀 Ser una incubadora de ideas y proyectos innovadores con impacto en la educación, la industria y la sociedad.  
 
@@ -30,13 +30,6 @@ Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados p
 🔹 **Ciberseguridad & Blockchain** → Protección de datos y tecnologías descentralizadas.  
 🔹 **Desarrollo de Videojuegos** → Diseño, programación y motores gráficos.  
 🔹 **Internet de las Cosas** → Integración de hardware y software para soluciones inteligentes.  
-
-### 🔥 **¿Por qué unirte?**  
-🚀 **Aprende con proyectos reales** → Más que teoría, trabajamos con aplicaciones prácticas.  
-🌎 **Red de contactos** → Conoce a otros apasionados por la tecnología y expande tu red profesional.  
-🎯 **Acceso a eventos exclusivos** → Talleres, hackathons, meetups y oportunidades de networking.  
-💼 **Preparación para la industria** → Desarrolla habilidades clave para el mercado laboral.  
-🎁 **Swags y perks** → Participa en eventos y gana premios, stickers y mucho más.  
 
 <div align="center">
 <h3>Conectá con nosotros</h3>
