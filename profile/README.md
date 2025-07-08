@@ -2,7 +2,7 @@
 
 Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados por la programación y la innovación. Nuestro objetivo es ***crear un espacio donde cualquiera pueda aprender, desarrollar proyectos y conectar con otras personas igual de apasionadas***. Más que un club, somos un ecosistema de aprendizaje y experimentación, donde la creatividad y el código se unen para resolver desafíos reales.  
 
-En nuestra comunidad estamos armando varios proyectos interesantes entre todos y siempre hay buenas oportunidades de “primer issue” si te animás. ¡Entrá a colaborar en cualquiera de nuestors repos, pero primero aprendé. [¿Cómo colaborar?](https://github.com/cpfiuna/mi-primer-pr)!. 
+En nuestra comunidad estamos armando varios proyectos interesantes entre todos y siempre hay buenas oportunidades de “primer issue” si te animás. ¡Entrá a colaborar en cualquiera de nuestors repos, pero primero aprendé, [¿Cómo colaborar?](https://github.com/cpfiuna/mi-primer-pr). 
 
 No hace falta que tengas experiencia previa ni que pagues ninguna membresía. Lo único que necesitás son ganas de aprender y colaborar.
 
