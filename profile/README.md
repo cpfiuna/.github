@@ -2,9 +2,9 @@
 
 Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados por la programación y la innovación. Nuestro objetivo es ***crear un espacio donde cualquiera pueda aprender, desarrollar proyectos y conectar con otras personas igual de apasionadas***. Más que un club, somos un ecosistema de aprendizaje y experimentación, donde la creatividad y el código se unen para resolver desafíos reales.  
 
-En nuestra comunidad estamos armando varios proyectos interesantes entre todos y siempre hay buenas oportunidades de “primer issue” si te animás. ¡Hacé tu [primer pull request](https://github.com/cpfiuna/mi-primer-pr)!. 
-
 No hace falta que tengas experiencia previa ni que pagues ninguna membresía. Lo único que necesitás son ganas de aprender y colaborar.
+
+En nuestra comunidad estamos armando varios proyectos interesantes y siempre hay buenas oportunidades de “primer issue” si te animás. ¡Hacé tu [primer pull request](https://github.com/cpfiuna/mi-primer-pr)!. 
 
 Visitá nuestra [página web](https://cpfiuna.vercel.app) para saber más sobre nosotros y conectá con nosotros en cualquiera de nuestras redes sociales:
 
