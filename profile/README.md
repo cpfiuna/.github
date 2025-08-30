@@ -6,7 +6,7 @@ No hace falta que tengas experiencia previa ni que pagues ninguna membresía. Lo
 
 En nuestra comunidad estamos armando varios proyectos interesantes y siempre hay buenas oportunidades de “primer issue” si te animás. ¡Hacé tu [primer pull request](https://github.com/cpfiuna/mi-primer-pr)!. 
 
-Visitá nuestra [página web](https://cpfiuna.vercel.app) para saber más sobre nosotros y conectá con nosotros en cualquiera de nuestras redes sociales:
+Visitá nuestra [página web](https://cpfiuna.io) para saber más sobre nosotros y conectá con nosotros en cualquiera de nuestras redes sociales:
 
 <div align="center">
   
