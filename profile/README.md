@@ -15,8 +15,7 @@ Visitá nuestra [página web](https://cpfiuna.io) para saber más sobre nosotros
   [![Discord](https://img.shields.io/badge/Discord-cpf?style=plastic&logo=discord&logoColor=%23fafafa&labelColor=%235865F2&color=%235865F2)](https://discord.gg/UtRpKw2ay4)
   [![YouTube](https://img.shields.io/badge/YouTube-cpf?style=plastic&logo=youtube&logoColor=%23fafafa&labelColor=%23FF0000&color=%23FF0000)](https://youtube.com/@cpfiuna)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-cpf?style=plastic&logo=inspire&logoColor=%23FAFAFA&labelColor=%230A66C2&color=%230A66C2)](https://www.linkedin.com/company/cpfiuna)
-  [![GitHub](https://img.shields.io/badge/GitHub-cpf?style=plastic&logo=github&logoColor=%23000000&labelColor=%23FAFAFA&color=%23FAFAFA)](https://github.com/cpfiuna)
-  [![Página Web](https://img.shields.io/badge/P%C3%A1gina%20Web-cpf?style=plastic&logo=vercel&logoColor=%23FAFAFA&labelColor=%230000FF&color=%230000FF)](https://cpfiuna.io)
+  [![Página Web](https://img.shields.io/badge/P%C3%A1gina%20Web-cpf?style=plastic&logo=vercel&logoColor=%23FAFAFA&labelColor=%23FAFAFA&color=%23FAFAFA)](https://cpfiuna.io)
 
 </div>
 
