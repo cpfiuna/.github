@@ -1,4 +1,4 @@
-![Banner </cpf>](![Banner](https://drive.google.com/uc?export=view&id=1TSSSmiGjGQj_8gLYTu-Q9brN66OH7QDZ))
+[![Banner </cpf>](https://drive.google.com/uc?export=view&id=1TSSSmiGjGQj_8gLYTu-Q9brN66OH7QDZ)]
 
 Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados por la programación y la innovación. Nuestro objetivo es ***crear un espacio donde cualquiera pueda aprender, desarrollar proyectos y conectar con otras personas igual de apasionadas***. Más que un club, somos un ecosistema de aprendizaje y experimentación, donde la creatividad y el código se unen para resolver desafíos reales.  
 
