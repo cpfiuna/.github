@@ -21,6 +21,6 @@ Visitá nuestra [página web](https://cpfiuna.io) para saber más sobre nosotros
 ---
 <div align="center">
 
-  Todos los proyectos y actividades del \</cpf\> siguen el siguiente [Código de Conducta](https://cpfiuna.vercel.app/codigo-de-conducta).
+  Todos los proyectos y actividades del \</cpf\> siguen el siguiente [Código de Conducta](https://cpfiuna.io/codigo-de-conducta).
 
 </div>
