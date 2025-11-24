@@ -1,4 +1,4 @@
-![Banner </cpf>]([https://cpfiuna.github.io/recursos/cpfiuna_readme/cpf_banner.png](https://drive.google.com/file/d/1TSSSmiGjGQj_8gLYTu-Q9brN66OH7QDZ/view?usp=sharing))
+![Banner </cpf>](https://drive.google.com/file/d/1TSSSmiGjGQj_8gLYTu-Q9brN66OH7QDZ/view?usp=sharing)
 
 Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados por la programación y la innovación. Nuestro objetivo es ***crear un espacio donde cualquiera pueda aprender, desarrollar proyectos y conectar con otras personas igual de apasionadas***. Más que un club, somos un ecosistema de aprendizaje y experimentación, donde la creatividad y el código se unen para resolver desafíos reales.  
 
